@@ -1,4 +1,4 @@
 # -*- coding: UTF-8 -*-
 
-from . import ocr
+from . import easydoc
 from . import ocr2excel
