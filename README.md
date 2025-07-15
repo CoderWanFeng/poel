@@ -16,11 +16,11 @@
 
 
 <p align="center" name="'github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/poocr'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg?style=social" alt="github star"/>
+    <a target="_blank" href='https://github.com/CoderWanFeng/poel'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/poel.svg?style=social" alt="github star"/>
     </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//poocr/'>
-		<img src='https://gitee.com/CoderWanFeng//poocr/badge/star.svg?theme=dark' alt='gitee star'/>
+    	<a target="_blank" href='https://gitee.com/CoderWanFeng//poel/'>
+		<img src='https://gitee.com/CoderWanFeng//poel/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
@@ -39,16 +39,12 @@
 ## 📚简介
 
 
-poocr 是一个文字识别的第三方库。
+``poel`` 是调用智能文档解析工具``EasyDoc``的简易工具。
 
 
--  💻所有功能的讲解👉[5讲OCR批量识别后自动保存为Excel，给小白的Python入门课又增加了！](https://www.python-office.com/course-002/5-poocr/5-poocr.html)
+-  💻**EasyDoc**的介绍👉[https://www.easylink-ai.com/easy-doc/](https://www.easylink-ai.com/easy-doc/)
 
-<p align="center" id='5讲OCR-banner'>
-    <a target="_blank" href='https://www.python-office.com/course-002/5-poocr/5-poocr.html'>
-    <img src="https://course-1300615378.cos.ap-guangzhou.myqcloud.com/poocr%2F%E5%B0%81%E9%9D%A2-%E6%A8%AA.jpg" width="100%"/>
-    </a>   
-</p>
+
 
 -------------------------------------------------------------------------------
 
@@ -57,7 +53,7 @@ poocr 是一个文字识别的第三方库。
 ### 🍊pip 自动下载&更新
 
 ```
-pip install -i https://mirrors.aliyun.com/pypi/simple/ poocr -U
+pip install -i https://mirrors.aliyun.com/pypi/simple/ poel -U
 ```
 
 
@@ -76,13 +72,13 @@ pip install -i https://mirrors.aliyun.com/pypi/simple/ poocr -U
 
 ### 📐PR的建议
 
-poocr欢迎任何人来添砖加瓦，贡献代码。
+poel欢迎任何人来添砖加瓦，贡献代码。
 
 ### 🐞提供bug反馈或建议
 
-提交问题反馈时，请务必填写和poocr代码本身有关的问题，不进行有关python学习，甚至是个人练习的知识答疑和讨论。
+提交问题反馈时，请务必填写和poel代码本身有关的问题，不进行有关python学习，甚至是个人练习的知识答疑和讨论。
 
-- [Github issue](https://github.com/CoderWanFeng/poocr/issues)
+- [Github issue](https://github.com/CoderWanFeng/poel/issues)
 
 -------------------------------------------------------------------------------
 
