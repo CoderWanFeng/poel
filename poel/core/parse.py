@@ -12,6 +12,9 @@ class parse():
         self.api_key = api_key
 
     def parse_files(self, file_list, mode=None, url=None):
+        """
+        来自：https://docs.easylink-ai.com/easydoc/quick-start/restful-api
+        """
         url = self.url if url is None else url
         headers = {
             "api-key": self.api_key
